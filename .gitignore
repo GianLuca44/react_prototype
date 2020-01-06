@@ -1,4 +1,16 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+App.js
+components
+portal12.svg
+portal_streetview.svg
+Vector 1portal.jpg
+Group 13portal.jpg
+401.svg
+402.svg
+403.svg
+App.css
+App.test.js
+index.js
+serviceWorker.js# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
